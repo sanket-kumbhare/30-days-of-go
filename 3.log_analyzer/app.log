@@ -1,0 +1,11 @@
+INFO: User logged in
+INFO: Payment done
+ERROR: DB failed
+INFO: User logged in
+WARN: High memory usage
+ERROR: DB failed
+ERROR: Timeout
+INFO: Order created
+ERROR: DB failed
+WARN: High memory usage
+ERROR: Payment gateway down

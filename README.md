@@ -15,8 +15,8 @@ Learning Go by building one project a day. No tutorials, only docs.
 ### Progress
 
 - [x] Day 1: Expense Splitter
-- [ ] Day 2: Password Checker
-- [ ] Day 3: Log Analyzer
+- [x] Day 2: Password Checker
+- [x] Day 3: Log Analyzer
 - [ ] Day 4: Contact Book
 - [ ] Day 5: Bank Account
 - [ ] Day 6: Shape Calculator

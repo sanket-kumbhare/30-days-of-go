@@ -4,9 +4,10 @@
 
 // Bonus: Return exactly why it's weak.
 
-package main
+// ----------------------------------
+// package main
 
-import "fmt"
+// import "fmt"
 
 // func checkPassword(pwd string) (bool, []string) {
 // 	var isStrong bool
@@ -69,8 +70,14 @@ import "fmt"
 // 		isStrong = true
 // 	}
 
-// 	return isStrong, whyWeak
-// }
+//		return isStrong, whyWeak
+//	}
+
+// -------------------------------
+
+package main
+
+import "fmt"
 
 func main() {
 	var pwd string
