@@ -12,12 +12,3 @@ Learning Go by building one project a day. No tutorials, only docs.
 **Day 6: Shape Calculator** - Interfaces  
 **Day 7: URL Status Checker** - `net/http`, mini project
 
-### Progress
-
-- [x] Day 1: Expense Splitter
-- [x] Day 2: Password Checker
-- [x] Day 3: Log Analyzer
-- [x] Day 4: Contact Book
-- [ ] Day 5: Bank Account
-- [ ] Day 6: Shape Calculator
-- [ ] Day 7: URL Status Checker
